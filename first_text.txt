@@ -7,3 +7,5 @@ git add -> used to add file in the repo or take modified file to stagging area
 git commit -am"message"  -- will  automatically transfer all files to stagging area and commit it 
                          -- m "is used to deliver message"
                          -- a is used as syntax for automatic
+
+"I AM WRITTING A DIFFERENT MESSAGE HERE"                         
