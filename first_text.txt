@@ -9,3 +9,5 @@ git commit -am"message"  -- will  automatically transfer all files to stagging a
                          -- a is used as syntax for automatic
 
 "I AM WRITTING A DIFFERENT MESSAGE HERE"                         
+
+I am progressing master branch further
