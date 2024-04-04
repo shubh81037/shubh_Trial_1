@@ -1,0 +1,2 @@
+git config --global --user.name "shubham"    --> used to config author name
+git config --global --user.email "shubham810@gmail.com"    --> used to config author_email name
