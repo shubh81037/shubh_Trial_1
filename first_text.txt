@@ -8,6 +8,8 @@ git commit -am"message"  -- will  automatically transfer all files to stagging a
                          -- m "is used to deliver message"
                          -- a is used as syntax for automatic
 
-"I AM WRITTING A DIFFERENT MESSAGE HERE"                         
 
-I am progressing master branch further
+"WE ARE IN DETACHED HEAD STATE"
+
+git switch -c New_Branch_Name  -- changes you want to save from detached Head -- it will create new branch 
+git checkout any_Branch_Name   -- commit will lose if you do not make new branch from it 
