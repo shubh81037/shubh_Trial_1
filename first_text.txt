@@ -13,3 +13,5 @@ git commit -am"message"  -- will  automatically transfer all files to stagging a
 
 git switch -c New_Branch_Name  -- changes you want to save from detached Head -- it will create new branch 
 git checkout any_Branch_Name   -- commit will lose if you do not make new branch from it 
+
+"DETACHED BRANCH"
