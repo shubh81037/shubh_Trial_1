@@ -8,6 +8,11 @@ git commit -am"message"  -- will  automatically transfer all files to stagging a
                          -- m "is used to deliver message"
                          -- a is used as syntax for automatic
 
+git branch - shows all branches
+git branch BranchName - create a new branch
+git checkout -b BranchName - create a new branch
+git checkout branchName - switched to branch                         
+
 
 "WE ARE IN DETACHED HEAD STATE"
 
